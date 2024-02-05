@@ -10,11 +10,11 @@ export default [
     },
     {
         id: 2,
-        question : "Following methods can be used to display data in some form using Javascript",
+        question : "asjndiusadhbaiuashdansidasda used to display data in some form using Javascript",
         options : [
-            'document.write()',
-            'console.log()',
-            'window.alert()',
+            'dasdasdaddasdasdasrite()',
+            'asdasddasda',
+            'wiadasdad)',
         ]
     },
     {

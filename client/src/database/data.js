@@ -13,7 +13,7 @@ export default [
         question : "asjndiusadhbaiuashdansidasda used to display data in some form using Javascript",
         options : [
             'dasdasdaddasdasdasrite()',
-            'asdasddasda',
+            'asdasddasasdadda',
             'wiadasdad)',
         ]
     },

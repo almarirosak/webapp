@@ -1,25 +1,25 @@
 export default [
     {
         id: 1,
-        question : "myname is saidahjsidajsdiasdjasidasjdasidas",
+        question : "Javascript is an _______ language",
         options : [
-            'asdadsriented',
-            'Obasdadsased',
-            'Proasdadssadal',
+            'Object-Oriented',
+            'Object-Based',
+            'Procedural',
         ]
     },
     {
         id: 2,
-        question : "asjndiusadhbaiuashdansidasda used to display data in some form using Javascript",
+        question : "Following methods can be used to display data in some form using Javascript",
         options : [
-            'dasdasdaddasdasdasrite()',
-            'asdasddasasdadda',
-            'wiadasdad)',
+            'document.write()',
+            'console.log()',
+            'window.alert()',
         ]
     },
     {
         id: 3,
-        question : "Whenasdasdadasdadadadad value is NULL, the typeof returned by the unary operator is:",
+        question : "When an operator value is NULL, the typeof returned by the unary operator is:",
         options : [
             'Boolean',
             'Undefined',
@@ -33,7 +33,6 @@ export default [
             'Return Object',
             'Return String',
             'Return Integer'
-
         ]
     },
     {
@@ -46,6 +45,5 @@ export default [
         ]
     }
 ];
-
 
 export const answers = [0, 1, 2, 1, 0];

@@ -1,11 +1,11 @@
 export default [
     {
         id: 1,
-        question : "Javascript is an _______ language",
+        question : "myname is saidahjsidajsdiasdjasidasjdasidas",
         options : [
-            'Object-Oriented',
-            'Object-Based',
-            'Procedural',
+            'asdadsriented',
+            'Obasdadsased',
+            'Proasdadssadal',
         ]
     },
     {

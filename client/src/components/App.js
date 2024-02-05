@@ -19,7 +19,7 @@ const router = createBrowserRouter([
   </Quiz>
 },
 {
-  path : 'rResult', 
+  path : '/result', 
   element : <Result>
     
   </Result>

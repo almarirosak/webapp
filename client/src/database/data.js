@@ -19,7 +19,7 @@ export default [
     },
     {
         id: 3,
-        question : "When an operator value is NULL, the typeof returned by the unary operator is:",
+        question : "Whenasdasdadasdadadadad value is NULL, the typeof returned by the unary operator is:",
         options : [
             'Boolean',
             'Undefined',

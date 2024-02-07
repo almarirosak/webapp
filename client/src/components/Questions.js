@@ -1,19 +1,23 @@
 import React, {useEffect, useState} from 'react'
 import data from '../database/data'
 
+
+import { useFetchQuestion } from '../hooks/FetchQuestion'
 export default function Questions() {
 
 
    const[checked, setChecked] = useState(undefined)
-    
+    const [{isLoading, apiData, serverError}] = useFetchQuestion()
    const question = data[0]
 
    useEffect(() => {
-    console.log(question)
+    console.log(isLoading)
+    console.log(apiData)
+    console.log(serverError)
    })
     function onSelect(){
-        setChecked(true)
-        console.log('radio button change')
+        //setChecked(true)
+        //console.log('radio button change')
 
     }
   return (
